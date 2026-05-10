@@ -52,5 +52,5 @@ class Inh2:
         box.surface_area()
 
 
-# Calling main method
+
 Inh2.main()
