@@ -20,7 +20,7 @@ The `Box` class inherits dimensions and methods from `Rectangle` and adds extra 
   * Perimeter of rectangle
   * Volume of box
   * Surface area of box
-
+  
 ---
 
 ## 🛠️ How It Works
